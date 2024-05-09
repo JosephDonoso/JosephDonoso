@@ -1,5 +1,7 @@
 <p align="center" width="400">
-  <h3 align="center">¡Hola 👋! Soy...</h3>
-  <img align="center" width="300" src="" alt="Imagen de presentaión"/>
-  <h3 align="center">¡Bienvenido a mi GitHub👨🏻‍💻!</h3>
+  <h2 align="center">¡Hola 👋! Soy ...</h2>
+  <p align="center">
+  <img align="center" width="400" src="https://raw.githubusercontent.com/JosephDonoso/JosephDonoso/main/img/presentacion.gif" alt="Imagen de presentaión"/>
+  </p>
+  <h1 align="center">¡Bienvenido a mi GitHub👨🏻‍💻!</h1>
 </p>
