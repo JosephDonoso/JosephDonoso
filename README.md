@@ -9,6 +9,7 @@
 <br>
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Experiencia</h2>
 
+- Tutor Par de Programación Avanzada (2024)
 - Colaboración en proyectos de Deep Learning (2024)
 - Ayudante de Estructura de Datos (2022 - 2023)
 - Ayudante de Fundamentos de Algoritmos (2022)
