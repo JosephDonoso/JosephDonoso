@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">¡Bienvenido a mi GitHub👨🏻‍💻!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Goldman&weight=700&size=30&duration=3000&pause=500&color=0FBB3F&center=true&vCenter=true&random=false&width=1000&height=80&lines=Tengo+22+a%C3%B1os+y+vivo+en+Casablanca%2C+Chile;Estudiante+de+Ing.+Civil+Inform%C3%A1tica+de+la+PUCV;Interesado+en+IA+y+desarrollo+web.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Goldman&weight=700&size=30&duration=3000&pause=500&color=0FBB3F&center=true&vCenter=true&random=false&width=1000&height=80&lines=Tengo+24+a%C3%B1os+y+vivo+en+Casablanca%2C+Chile;Estudiante+de+Ing.+Civil+Inform%C3%A1tica+de+la+PUCV;Interesado+en+IA+y+desarrollo+web.)](https://git.io/typing-svg)
 
 <br>
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Experiencia</h2>
